@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Eagle-Bold';
+  src: url('Eagle-Bold.eot?#iefix') format('embedded-opentype'),  url('Eagle-Bold.otf')  format('opentype'),
+	     url('Eagle-Bold.woff') format('woff'), url('Eagle-Bold.ttf')  format('truetype'), url('Eagle-Bold.svg#Eagle-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
